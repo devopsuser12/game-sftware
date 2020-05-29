@@ -1,1 +1,3 @@
 this is my first edit in file1.txt for merging
+this is the modification done in feature1 branch
+
